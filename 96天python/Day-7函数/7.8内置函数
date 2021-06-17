@@ -1,0 +1,2 @@
+内置函数
+abs()  all()  any() bin() bool() bytearray() bytes() callable()

@@ -1,0 +1,5 @@
+f = open('pythond4.txt',"x")
+f.write("我说你好\n")
+f.write("666666\n")
+f.write("dafa\n")
+f.close()

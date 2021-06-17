@@ -20,7 +20,7 @@ def request_get(url, ret_type="text", timeout=5, encoding="GBK"):
 #
 # 抓取函数
 def main():
-    urls = [f"http://www.netbian.com/mei/index_{i}.htm" for i in range(2, 201)]
+    urls = [f"http://www.netbian.com/mei/index_{i}.htm" for i in range(2, 20000)]
     url = "http://www.netbian.com/mei/index.htm"
     urls.insert(0, url)
     for url in urls:
