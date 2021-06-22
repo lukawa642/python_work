@@ -1,8 +1,8 @@
 
-n = 100
-while n > 0:
-    n=int( n/2)
-    print(n)
+# n = 100
+# while n > 0:
+#     n=int(n/2)
+#     print(n)
 #自己调用自己
 def func(n):
     n=int(n/2)
@@ -12,6 +12,6 @@ def func(n):
     print(n)
     return n
 
-res=func(100)
+res=func(5)
 print(res)
 
