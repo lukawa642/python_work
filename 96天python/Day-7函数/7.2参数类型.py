@@ -40,7 +40,7 @@ def stu_form(name, age, major, phone):
 stu_form("lcx", age=22, major="shuxue", phone=15230623205)
 
 
-# 默认参数
+print("默认参数")
 def stu_form(name, age, major, phone="1523062320589"):
     info = f'''
     Name:{name},
@@ -103,5 +103,5 @@ SHUJU = {
     "major": "shuxue",
     "phone": 15230623205
 }
-
+print(**SHUJU)
 stu_form(**SHUJU)

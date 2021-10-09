@@ -12,6 +12,6 @@ def func(n):
     print(n)
     return n
 
-res=func(5)
+res=func(10000000)
 print(res)
 
