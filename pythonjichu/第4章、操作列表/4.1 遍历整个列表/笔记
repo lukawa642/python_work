@@ -1,0 +1,6 @@
+
+
+magicians.py
+magicians = ['alice','lcx','gss','wt']
+for i in magicians:
+print('')

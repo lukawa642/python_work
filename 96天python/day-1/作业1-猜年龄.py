@@ -1,11 +1,10 @@
-
-#while 循环 day2 的内容
+# while 循环 day2 的内容
 count = 0
 black_girl_age = 25
 while count < 3:
     guess = input("猜黑姑娘的年龄>:")
     if guess.isdigit():
-        guess=int(guess)
+        guess = int(guess)
     else:
         print("不识别指令，请重新输入新的数值.....")
         continue
@@ -16,14 +15,10 @@ while count < 3:
     else:
         print("恭喜你，猜对了")
         break
-    count +=1
+    count += 1
     if count == 3:
         cmd = input("还要不要试一把.........（Y/N）")
-        if cmd in ["Y","y","yes"]:
-            count=0
+        if cmd in ["Y", "y", "yes"]:
+            count = 0
         else:
-            print("byebye..............")
-
-
-
-
+            print("bye..............")
