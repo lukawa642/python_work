@@ -5,61 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c48c213a-a167-4a34-bdc5-946765262c14" name="默认变更列表" comment="test">
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.1 遍历整个列表/笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.2 避免缩进错误/4.2 练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.2 避免缩进错误/笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.2 避免缩进错误/课后练习/4-1 比萨.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.2 避免缩进错误/课后练习/4-2 动物.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/4.3 练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-3 数到20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-4 一百万.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-5 计算1-1000000的和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-6 奇数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-7 3的倍数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-8 立方.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.3 创建数值列表/课后练习/4-9 立方解析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/4.4 练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/课后练习/4-11 你的比萨和我的比萨.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/课后练习/4.10 切片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/4-13 自助餐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/笔记" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习实战教程/机器学习实战教程（一）：K-近邻算法/k-近邻算法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.23训练营/6.24.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.1 遍历整个列表/4.1 课堂练习.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.23训练营/练习.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.23训练营/练习_lianxi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/96天python/day-1/作业1-猜年龄.py" beforeDir="false" afterPath="$PROJECT_DIR$/96天python/day-1/作业1-猜年龄.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/2.1-hello_world.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/2.2bianlian.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/2.3字符串.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/2.4数字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/第二章练习/2-3个性化消息.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/第二章练习/2-4调整姓名大小写.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/第二章练习/2-5名言.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/第二章练习/2-7剔除人名中的空白.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/第二章练习/2-8 数字8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型/第二章练习/2-9最喜欢的数字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-1列表/3.1列表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-1列表/练习/3-1姓名.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-1列表/练习/3-2问候语.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-1列表/练习/3-3自己的列表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-2修改、添加和删除元素/3.2修改、添加和删除元素.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-2修改、添加和删除元素/练习/3-4嘉宾名单.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-2修改、添加和删除元素/练习/3-5 修改嘉宾名单.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-2修改、添加和删除元素/练习/3-6添加嘉宾.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-2修改、添加和删除元素/练习/3-7缩减名单.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-3组织列表/3.3.1使用方法sort()对列表进行永久排序.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-3组织列表/3.3.2使用sorted()对列表进行临时排序.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-3组织列表/3.3.3倒着打印列表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-3组织列表/3.3.4确定列表长度.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-3组织列表/练习/3-8放眼世界.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/3.列表简介/3-3组织列表/练习/3-9晚宴嘉宾.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/4.函数/练习.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/1.排序/冒泡排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/经典算法/1.排序/冒泡排序.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/1.排序/直接插入排序---二分法.py" beforeDir="false" afterPath="$PROJECT_DIR$/经典算法/1.排序/直接插入排序---二分法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/算法/1.排序/直接插入排序.py" beforeDir="false" afterPath="$PROJECT_DIR$/经典算法/1.排序/直接插入排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonjichu/第6章、字典/6.1 一个简单的字典/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonjichu/第6章、字典/6.2 使用字典/笔记.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄/ash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/4-13 自助餐.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/4-13 自助餐.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +47,19 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/3.集合set.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/2.字典.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/kt.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/1.元组.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/素数练习.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/99乘法表.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/for+else的用法.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/while_循环.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/2.字典.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/3.集合set.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/素数练习.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/打印三角形.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1rxeO0vnMmqAA4j51o5zyj1ZRNs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -125,19 +81,19 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文件\pythonProject\pythonjichu\第4章、操作列表\4.2 避免缩进错误" />
       <recent name="D:\文件\pythonProject\pythonjichu\第4章、操作列表\4.3 创建数值列表\课后练习" />
       <recent name="D:\文件\pythonProject\pythonjichu\第4章、操作列表\4.2 避免缩进错误\课后练习" />
       <recent name="D:\文件\python_work\venv" />
       <recent name="D:\文件\python_work\96天python\pachong" />
-      <recent name="D:\文件\python_work\96天python\day-5：数据类型元组\练习" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5-11 序数">
-    <configuration name="3-4嘉宾名单" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.alien">
+    <configuration name="笔记" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第3章、列表简介/3-2修改、添加和删除元素/练习" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.2 使用字典" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第3章、列表简介/3-2修改、添加和删除元素/练习/3-4嘉宾名单.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.2 使用字典/笔记.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,54 +137,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-13 自助餐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/4-13 自助餐.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.10 切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/课后练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/课后练习/4.10 切片.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="5-11 序数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -236,25 +151,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="读模式：" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/96天python/day-6 文件操作、编码转换" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/96天python/day-6 文件操作、编码转换/读模式：.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,20 +219,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.1 一个简单的字典" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.1 一个简单的字典/alien.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄/ash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.3-4嘉宾名单" />
-      <item itemvalue="Python.4.10 切片" />
       <item itemvalue="Python.4-11 你的比萨和我的比萨" />
-      <item itemvalue="Python.4-13 自助餐" />
       <item itemvalue="Python.5-11 序数" />
+      <item itemvalue="Python.alien" />
+      <item itemvalue="Python.笔记" />
+      <item itemvalue="Python.ash" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alien" />
+        <item itemvalue="Python.ash" />
+        <item itemvalue="Python.笔记" />
         <item itemvalue="Python.5-11 序数" />
-        <item itemvalue="Python.4-13 自助餐" />
         <item itemvalue="Python.4-11 你的比萨和我的比萨" />
-        <item itemvalue="Python.4.10 切片" />
-        <item itemvalue="Python.3-4嘉宾名单" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +370,12 @@
       <workItem from="1635477976430" duration="1164000" />
       <workItem from="1635490404212" duration="3999000" />
       <workItem from="1635644877647" duration="2664000" />
-      <workItem from="1635667605074" duration="1092000" />
+      <workItem from="1635667605074" duration="1243000" />
+      <workItem from="1636165629743" duration="6114000" />
+      <workItem from="1639183641287" duration="65000" />
+      <workItem from="1639183786138" duration="53000" />
+      <workItem from="1639210271634" duration="529000" />
+      <workItem from="1639359138309" duration="2404000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1623931272740</created>
@@ -466,7 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633773866501</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1635668713038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635668713038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1635668719807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635668719807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +435,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
@@ -563,39 +515,39 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_work$1_2.coverage" NAME="1-2把下列表格中同字母异序词找出来 覆盖结果" MODIFIED="1620202413799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
-    <SUITE FILE_PATH="coverage/python_work$1_.coverage" NAME="作业1-猜年龄 覆盖结果" MODIFIED="1621075282015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-1" />
-    <SUITE FILE_PATH="coverage/python_work$3_.coverage" NAME="3.把列表中的值进行分类，计数 覆盖结果" MODIFIED="1620194910248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
     <SUITE FILE_PATH="coverage/python_work$2_1_hello_world.coverage" NAME="2.1-hello_world 覆盖结果" MODIFIED="1619923867920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型" />
     <SUITE FILE_PATH="coverage/python_work$2_dictkey5value.coverage" NAME="2.请把这个dict中key大于5的值value打印出来 覆盖结果" MODIFIED="1620196521374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
-    <SUITE FILE_PATH="coverage/python_work$5556.coverage" NAME="5556 覆盖结果" MODIFIED="1619934472728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实例" />
-    <SUITE FILE_PATH="coverage/python_work$_.coverage" NAME="返回值-多参数 覆盖结果" MODIFIED="1623897972021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
-    <SUITE FILE_PATH="coverage/python_work$4_.coverage" NAME="4.双色球 覆盖结果" MODIFIED="1620294953703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-4--第三天的作业" />
-    <SUITE FILE_PATH="coverage/python_work$4_2value_1.coverage" NAME="4.把题2中的value是偶数的统一改成-1 覆盖结果" MODIFIED="1620196930117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
-    <SUITE FILE_PATH="coverage/python_work$6_.coverage" NAME="6.寻找组合 覆盖结果" MODIFIED="1619950176419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2/实战小程序" />
-    <SUITE FILE_PATH="coverage/python_work$5___1_.coverage" NAME="5.找列表中的最大值，最小值 (1) 覆盖结果" MODIFIED="1620002866314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2--循环/实战小程序" />
-    <SUITE FILE_PATH="coverage/python$7_2.coverage" NAME="7.2参数类型 覆盖结果" MODIFIED="1633315896575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
-    <SUITE FILE_PATH="coverage/python_work$dict.coverage" NAME="dict练习题 覆盖结果" MODIFIED="1620132567942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资料/资源/b站_金角大王/课件pdf给学生的d1-d5/课件pdf给学生的/day5" />
-    <SUITE FILE_PATH="coverage/python_work$while_.coverage" NAME="while_循环 覆盖结果" MODIFIED="1619941331875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
+    <SUITE FILE_PATH="coverage/python_work$1_.coverage" NAME="作业1-猜年龄 覆盖结果" MODIFIED="1621075282015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-1" />
     <SUITE FILE_PATH="coverage/python_work$test.coverage" NAME="test 覆盖结果" MODIFIED="1619923992682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day1" />
-    <SUITE FILE_PATH="coverage/python_work$1_2_3_4_5_6_7_____100.coverage" NAME="计算1-2+3-4+5-6+7.....100 覆盖结果" MODIFIED="1619948203138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2/实战小程序" />
-    <SUITE FILE_PATH="coverage/python_work$2_.coverage" NAME="2.字典 覆盖结果" MODIFIED="1620183619000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组" />
-    <SUITE FILE_PATH="coverage/python$7_1.coverage" NAME="7.1函数的介绍和定义 覆盖结果" MODIFIED="1633311775022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
-    <SUITE FILE_PATH="coverage/python_work$99.coverage" NAME="99乘法表 覆盖结果" MODIFIED="1619936234193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
-    <SUITE FILE_PATH="coverage/python_work$5.coverage" NAME="5判断列表是不是列表的字列表 覆盖结果" MODIFIED="1620207931027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-4--第三天的作业" />
-    <SUITE FILE_PATH="coverage/python_work$3_set.coverage" NAME="3.集合set 覆盖结果" MODIFIED="1621075210706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组" />
-    <SUITE FILE_PATH="coverage/python_work$2.coverage" NAME="找到列表中第2大的值 覆盖结果" MODIFIED="1620041495635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资料/资源/b站_金角大王/课件pdf给学生的d1-d5/课件pdf给学生的/day3-4" />
-    <SUITE FILE_PATH="coverage/python_work$__1_.coverage" NAME="练习 (1) 覆盖结果" MODIFIED="1620304339682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/5.类" />
-    <SUITE FILE_PATH="coverage/python_work$builtins.coverage" NAME="builtins 覆盖结果" MODIFIED="1620015696829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2021.1/python_stubs/-1129513635" />
-    <SUITE FILE_PATH="coverage/python_work$for_else.coverage" NAME="for+else的用法 覆盖结果" MODIFIED="1620002524507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2--循环" />
+    <SUITE FILE_PATH="coverage/python_work$5___1_.coverage" NAME="5.找列表中的最大值，最小值 (1) 覆盖结果" MODIFIED="1620002866314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2--循环/实战小程序" />
     <SUITE FILE_PATH="coverage/python_work$52265212.coverage" NAME="52265212 覆盖结果" MODIFIED="1620301054436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实例" />
-    <SUITE FILE_PATH="coverage/python_work$kt.coverage" NAME="kt 覆盖结果" MODIFIED="1619935643610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
-    <SUITE FILE_PATH="coverage/python_work$1_100keyvalue.coverage" NAME="1.生成一个包含100个key的字典，每个value的值不能一样 覆盖结果" MODIFIED="1620195752454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
-    <SUITE FILE_PATH="coverage/python_work$1_1dictvalues.coverage" NAME="1-1输出dict中values里唯一的值 覆盖结果" MODIFIED="1620201002801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
-    <SUITE FILE_PATH="coverage/python_work$.coverage" NAME="多行写入 覆盖结果" MODIFIED="1623205003276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-6 文件操作、编码转换" />
+    <SUITE FILE_PATH="coverage/python_work$3_.coverage" NAME="3.把列表中的值进行分类，计数 覆盖结果" MODIFIED="1620194910248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
     <SUITE FILE_PATH="coverage/python$k_.coverage" NAME="k-近邻算法 覆盖结果" MODIFIED="1635471131938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习实战教程/机器学习实战教程（一）：K-近邻算法" />
-    <SUITE FILE_PATH="coverage/python_work$7_7.coverage" NAME="7.7递归 覆盖结果" MODIFIED="1623917760951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
+    <SUITE FILE_PATH="coverage/python_work$4_.coverage" NAME="4.双色球 覆盖结果" MODIFIED="1620294953703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-4--第三天的作业" />
+    <SUITE FILE_PATH="coverage/python$7_2.coverage" NAME="7.2参数类型 覆盖结果" MODIFIED="1633315896575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
+    <SUITE FILE_PATH="coverage/python_work$3_set.coverage" NAME="3.集合set 覆盖结果" MODIFIED="1621075210706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组" />
+    <SUITE FILE_PATH="coverage/python_work$__1_.coverage" NAME="练习 (1) 覆盖结果" MODIFIED="1620304339682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/5.类" />
     <SUITE FILE_PATH="coverage/python_work$lll.coverage" NAME="lll 覆盖结果" MODIFIED="1622096207790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python" />
+    <SUITE FILE_PATH="coverage/python_work$6_.coverage" NAME="6.寻找组合 覆盖结果" MODIFIED="1619950176419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2/实战小程序" />
+    <SUITE FILE_PATH="coverage/python_work$5.coverage" NAME="5判断列表是不是列表的字列表 覆盖结果" MODIFIED="1620207931027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-4--第三天的作业" />
+    <SUITE FILE_PATH="coverage/python_work$2.coverage" NAME="找到列表中第2大的值 覆盖结果" MODIFIED="1620041495635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资料/资源/b站_金角大王/课件pdf给学生的d1-d5/课件pdf给学生的/day3-4" />
+    <SUITE FILE_PATH="coverage/python_work$1_100keyvalue.coverage" NAME="1.生成一个包含100个key的字典，每个value的值不能一样 覆盖结果" MODIFIED="1620195752454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
+    <SUITE FILE_PATH="coverage/python_work$4_2value_1.coverage" NAME="4.把题2中的value是偶数的统一改成-1 覆盖结果" MODIFIED="1620196930117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
+    <SUITE FILE_PATH="coverage/python_work$1_1dictvalues.coverage" NAME="1-1输出dict中values里唯一的值 覆盖结果" MODIFIED="1620201002801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
+    <SUITE FILE_PATH="coverage/python_work$1_2_3_4_5_6_7_____100.coverage" NAME="计算1-2+3-4+5-6+7.....100 覆盖结果" MODIFIED="1619948203138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2/实战小程序" />
+    <SUITE FILE_PATH="coverage/python_work$7_7.coverage" NAME="7.7递归 覆盖结果" MODIFIED="1623917760951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
+    <SUITE FILE_PATH="coverage/python_work$2_.coverage" NAME="2.字典 覆盖结果" MODIFIED="1620183619000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组" />
+    <SUITE FILE_PATH="coverage/python_work$1_2.coverage" NAME="1-2把下列表格中同字母异序词找出来 覆盖结果" MODIFIED="1620202413799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
+    <SUITE FILE_PATH="coverage/python_work$.coverage" NAME="多行写入 覆盖结果" MODIFIED="1623205003276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-6 文件操作、编码转换" />
+    <SUITE FILE_PATH="coverage/python_work$for_else.coverage" NAME="for+else的用法 覆盖结果" MODIFIED="1620002524507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2--循环" />
+    <SUITE FILE_PATH="coverage/python_work$5556.coverage" NAME="5556 覆盖结果" MODIFIED="1619934472728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实例" />
+    <SUITE FILE_PATH="coverage/python_work$99.coverage" NAME="99乘法表 覆盖结果" MODIFIED="1619936234193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
     <SUITE FILE_PATH="coverage/python_work$5_.coverage" NAME="5.把一段话中重复单词给去掉 覆盖结果" MODIFIED="1620197934603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
+    <SUITE FILE_PATH="coverage/python_work$while_.coverage" NAME="while_循环 覆盖结果" MODIFIED="1619941331875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
+    <SUITE FILE_PATH="coverage/python_work$builtins.coverage" NAME="builtins 覆盖结果" MODIFIED="1620015696829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2021.1/python_stubs/-1129513635" />
+    <SUITE FILE_PATH="coverage/python_work$dict.coverage" NAME="dict练习题 覆盖结果" MODIFIED="1620132567942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资料/资源/b站_金角大王/课件pdf给学生的d1-d5/课件pdf给学生的/day5" />
+    <SUITE FILE_PATH="coverage/python$7_1.coverage" NAME="7.1函数的介绍和定义 覆盖结果" MODIFIED="1633311775022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
+    <SUITE FILE_PATH="coverage/python_work$kt.coverage" NAME="kt 覆盖结果" MODIFIED="1619935643610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
+    <SUITE FILE_PATH="coverage/python_work$_.coverage" NAME="返回值-多参数 覆盖结果" MODIFIED="1623897972021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
   </component>
 </project>
