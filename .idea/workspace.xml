@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c48c213a-a167-4a34-bdc5-946765262c14" name="默认变更列表" comment="test">
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第6章、字典/6.1 一个简单的字典/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonjichu/第6章、字典/6.2 使用字典/笔记.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄/ash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/4-13 自助餐.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.5 元组/4-13 自助餐.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" afterDir="false" />
-    </list>
+    <list default="true" id="c48c213a-a167-4a34-bdc5-946765262c14" name="默认变更列表" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +20,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,19 +38,28 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/kt.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块/课程35-time模块.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/素数练习.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块/课程33-datetime模块.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/while_循环.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/for+else的用法.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/实例/金字塔.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/99乘法表.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/打印三角形.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/python图/pyplot.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/builtins.pyi" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pythonjichu/项目1-外星人入侵/主程序.py" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/3.集合set.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/2.字典.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/kt.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/96天python/day-5：数据类型元组/1.元组.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/素数练习.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/99乘法表.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/for+else的用法.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/while_循环.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/96天python/day-2--循环/打印三角形.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/typing.pyi" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="1rxeO0vnMmqAA4j51o5zyj1ZRNs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -81,76 +81,168 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文件\pythonProject\pythonjichu\项目1-外星人入侵\images" />
       <recent name="D:\文件\pythonProject\pythonjichu\第4章、操作列表\4.2 避免缩进错误" />
       <recent name="D:\文件\pythonProject\pythonjichu\第4章、操作列表\4.3 创建数值列表\课后练习" />
       <recent name="D:\文件\pythonProject\pythonjichu\第4章、操作列表\4.2 避免缩进错误\课后练习" />
       <recent name="D:\文件\python_work\venv" />
-      <recent name="D:\文件\python_work\96天python\pachong" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.alien">
+  <component name="RunManager" selected="Python.3.1列表">
+    <configuration name="主程序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/项目1-外星人入侵" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/项目1-外星人入侵/主程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="课程34-calendar模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块/课程34-calendar模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="课程35-time模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块/课程35-time模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="课程36-几个算术模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python语言基础与应用-中国大学/七、基本扩展模块/课程36-几个算术模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3.1列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第3章、列表简介/3-1列表" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第3章、列表简介/3-1列表/3.1列表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="主程序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/项目1-外星人入侵" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/项目1-外星人入侵/主程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="笔记" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.2 使用字典" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第9章、类/9.1创建和使用类" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.2 使用字典/笔记.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4-11 你的比萨和我的比萨" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/课后练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第4章、操作列表/4.4 使用列表的一部分/课后练习/4-11 你的比萨和我的比萨.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5-11 序数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第5章、if语句/课后习题/5-11 序数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第9章、类/9.1创建和使用类/笔记.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,36 +311,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pyplot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.1 一个简单的字典" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonjichu/第6章、字典/6.1 一个简单的字典/alien.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习实战教程/线性回归基础篇之预测鲍鱼年龄/ash.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python图/pyplot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +334,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4-11 你的比萨和我的比萨" />
-      <item itemvalue="Python.5-11 序数" />
-      <item itemvalue="Python.alien" />
-      <item itemvalue="Python.笔记" />
-      <item itemvalue="Python.ash" />
+      <item itemvalue="Python.主程序" />
+      <item itemvalue="Python.pyplot" />
+      <item itemvalue="Python.课程34-calendar模块" />
+      <item itemvalue="Python.课程35-time模块" />
+      <item itemvalue="Python.课程36-几个算术模块" />
+      <item itemvalue="Python.3.1列表" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.alien" />
-        <item itemvalue="Python.ash" />
-        <item itemvalue="Python.笔记" />
-        <item itemvalue="Python.5-11 序数" />
-        <item itemvalue="Python.4-11 你的比萨和我的比萨" />
+        <item itemvalue="Python.3.1列表" />
+        <item itemvalue="Python.pyplot" />
+        <item itemvalue="Python.课程36-几个算术模块" />
+        <item itemvalue="Python.课程35-time模块" />
+        <item itemvalue="Python.课程34-calendar模块" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +452,19 @@
       <workItem from="1639183641287" duration="65000" />
       <workItem from="1639183786138" duration="53000" />
       <workItem from="1639210271634" duration="529000" />
-      <workItem from="1639359138309" duration="2404000" />
+      <workItem from="1639359138309" duration="9225000" />
+      <workItem from="1639913547530" duration="488000" />
+      <workItem from="1640153819936" duration="76000" />
+      <workItem from="1640153913282" duration="4866000" />
+      <workItem from="1640226487596" duration="3737000" />
+      <workItem from="1640241008209" duration="919000" />
+      <workItem from="1640242101436" duration="262000" />
+      <workItem from="1642236805726" duration="756000" />
+      <workItem from="1642238476394" duration="107000" />
+      <workItem from="1642295531907" duration="24221000" />
+      <workItem from="1643539109104" duration="44000" />
+      <workItem from="1645662962853" duration="252000" />
+      <workItem from="1645663233180" duration="785000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1623931272740</created>
@@ -419,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635668719807</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test">
+      <created>1639376482540</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639376482540</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,6 +600,15 @@
           <line>4</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonjichu/项目1-外星人入侵/主程序.py</url>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonjichu/项目1-外星人入侵/主程序.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -515,12 +620,14 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$settings.coverage" NAME="settings 覆盖结果" MODIFIED="1640242324107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/项目1-外星人入侵" />
     <SUITE FILE_PATH="coverage/python_work$2_1_hello_world.coverage" NAME="2.1-hello_world 覆盖结果" MODIFIED="1619923867920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/2.变量和简单数据类型" />
     <SUITE FILE_PATH="coverage/python_work$2_dictkey5value.coverage" NAME="2.请把这个dict中key大于5的值value打印出来 覆盖结果" MODIFIED="1620196521374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
     <SUITE FILE_PATH="coverage/python_work$1_.coverage" NAME="作业1-猜年龄 覆盖结果" MODIFIED="1621075282015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-1" />
     <SUITE FILE_PATH="coverage/python_work$test.coverage" NAME="test 覆盖结果" MODIFIED="1619923992682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day1" />
     <SUITE FILE_PATH="coverage/python_work$5___1_.coverage" NAME="5.找列表中的最大值，最小值 (1) 覆盖结果" MODIFIED="1620002866314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2--循环/实战小程序" />
     <SUITE FILE_PATH="coverage/python_work$52265212.coverage" NAME="52265212 覆盖结果" MODIFIED="1620301054436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实例" />
+    <SUITE FILE_PATH="coverage/pythonProject$.coverage" NAME="主程序 覆盖结果" MODIFIED="1642297030817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/项目1-外星人入侵" />
     <SUITE FILE_PATH="coverage/python_work$3_.coverage" NAME="3.把列表中的值进行分类，计数 覆盖结果" MODIFIED="1620194910248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
     <SUITE FILE_PATH="coverage/python$k_.coverage" NAME="k-近邻算法 覆盖结果" MODIFIED="1635471131938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习实战教程/机器学习实战教程（一）：K-近邻算法" />
     <SUITE FILE_PATH="coverage/python_work$4_.coverage" NAME="4.双色球 覆盖结果" MODIFIED="1620294953703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-4--第三天的作业" />
@@ -544,6 +651,7 @@
     <SUITE FILE_PATH="coverage/python_work$99.coverage" NAME="99乘法表 覆盖结果" MODIFIED="1619936234193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
     <SUITE FILE_PATH="coverage/python_work$5_.coverage" NAME="5.把一段话中重复单词给去掉 覆盖结果" MODIFIED="1620197934603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-5：数据类型元组/练习" />
     <SUITE FILE_PATH="coverage/python_work$while_.coverage" NAME="while_循环 覆盖结果" MODIFIED="1619941331875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/day-2" />
+    <SUITE FILE_PATH="coverage/pythonProject$__1_.coverage" NAME="笔记 (1) 覆盖结果" MODIFIED="1639913812916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonjichu/第6章、字典/6.3 遍历字典" />
     <SUITE FILE_PATH="coverage/python_work$builtins.coverage" NAME="builtins 覆盖结果" MODIFIED="1620015696829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2021.1/python_stubs/-1129513635" />
     <SUITE FILE_PATH="coverage/python_work$dict.coverage" NAME="dict练习题 覆盖结果" MODIFIED="1620132567942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/资料/资源/b站_金角大王/课件pdf给学生的d1-d5/课件pdf给学生的/day5" />
     <SUITE FILE_PATH="coverage/python$7_1.coverage" NAME="7.1函数的介绍和定义 覆盖结果" MODIFIED="1633311775022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/96天python/Day-7函数" />
