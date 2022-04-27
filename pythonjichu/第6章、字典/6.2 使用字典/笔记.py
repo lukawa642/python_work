@@ -49,4 +49,11 @@ del alien_0[ 'y_position']
 print(alien_0)#'''删除是永久删除'''
 
 # 6.2.6 由类似对象组成的字典
-
+favorite_languages = {
+    'jen': 'python',
+    'sarah': 'c',
+    'edward': 'ruby',
+    'phil': 'python',
+    }
+print("Sarah's favorite language is " +favorite_languages['sarah'].title() +  ".")
+print("Phil's favorite language is " +favorite_languages['phil'].title() +  ".")

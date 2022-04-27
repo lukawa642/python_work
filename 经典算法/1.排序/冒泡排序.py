@@ -36,7 +36,7 @@ def maopaoshuanfa(list):
                 print(list)
                 n=n+1
 
-list = [50, 123, 543, 187, 49, 30, 0, 2, 11, 100]
+list = [50, 123, 543, 187, 49, 30, 0, 2, 11, 100,25,1,23,3,25,5]
 maopaoshuanfa(list)
 
 
