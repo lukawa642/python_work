@@ -4,8 +4,9 @@ alien_0 = {'color': 'green', 'point': 5}
 print(alien_0['color'])
 
 new_point = alien_0['point']
-print("You just earned " + str(new_point) + " points!")
 print(new_point)
+print("You just earned " + str(new_point) + " points!")
+
 print()
 
 # 6.2.2 添加键-值对
@@ -48,7 +49,7 @@ alien_0 = {'x_position': 0, 'y_position': 25}
 del alien_0[ 'y_position']
 print(alien_0)#'''删除是永久删除'''
 
-# 6.2.6 由类似对象组成的字典
+print("# 6.2.6 由类似对象组成的字典")
 favorite_languages = {
     'jen': 'python',
     'sarah': 'c',
